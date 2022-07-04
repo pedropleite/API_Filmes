@@ -1,4 +1,4 @@
-# API Filmes 🍕
+# API Filmes 
 Aplicação criada com fins educativos, permite a adição e visualização de dados sobre filmes.
 
 <br>
