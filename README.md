@@ -1,7 +1,6 @@
 # API Filmes 🍕
 Aplicação criada com fins educativos, permite a adição e visualização de dados sobre filmes.
 
-<img width ="100%" src="https://github.com/pedropleite/e-commerce/blob/master/READMEGif.gif">
 <br>
 
 # Sobre esse projeto 🔍
